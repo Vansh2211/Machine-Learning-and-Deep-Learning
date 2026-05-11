@@ -4,9 +4,9 @@ This repository contains a collection of Machine Learning and Deep Learning note
 
 ## 📌 Contents
 - 📊 Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning models (KNN, Linear Regression, Random Forest, SVM)
+- 🤖 Machine Learning models (KNN, Linear Regression, Random Forest, SVM etc.)
 - 🧠 Deep Learning projects (ANN, Digit Classification)
-- 🚢 End-to-end project (Titanic Survival Prediction)
+- 🚢 End-to-end projects
 
 ## 🚀 Purpose
 The goal of this repository is to build a strong foundation in ML/DL and showcase hands-on implementation of core algorithms and real-world problems.
